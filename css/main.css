@@ -41,10 +41,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-#homepic img {
-  position: absolute; 
-  margin: auto; 
-  min-width: 50%;
-  min-height: 50%;
-}
