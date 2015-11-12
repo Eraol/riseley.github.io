@@ -1,6 +1,7 @@
 # This text file states the current design and develop mission of the website
 
 Short Term
+- Redesigned base on http://milanaryal.com/ , https://github.com/MilanAryal/milanaryal.github.io
 - add copyright notice to readme
 - add cc to readme & license
 - A new design on appearance
@@ -16,4 +17,3 @@ Long Term
 
 #History
 - Followed the tutorial at http://jmcglone.com/guides/github-pages/ , https://github.com/jmcglone/jmcglone.github.io
-- //Redesigned base on http://milanaryal.com/ , https://github.com/MilanAryal/milanaryal.github.io
