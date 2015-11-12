@@ -1,0 +1,10 @@
+# Site nav
+
+- title: "YARA"
+  url:   "/yara/"
+
+- title: "About"
+  url:   "/about/"
+
+- title: "Contact"
+  url:   "/contact/"
