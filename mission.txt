@@ -1,7 +1,8 @@
 # This text file states the current design and develop mission of the website
 
 Short Term
-- A new design
+- A new design on appearance
+- Redesign the website into a semi-professional settings, hint: make the home and about page a lot more serious
 - Create posts
   > enlightenment and revelation
   > life is one
