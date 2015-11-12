@@ -1,3 +1,18 @@
-name: Riseley's Personal Website
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME
+  
+encoding: "utf-8"
+
+name: Riseley
+description: "I keep changing, and hope it's for the better"
+icon: "/assets/img/rslyChibiava.png"
+
 markdown: kramdown
+kramdown:
+  input: GFM
 permalink: /yara/:title
+
+timezone:      Asia/Tokyo
+locale:        en_us
