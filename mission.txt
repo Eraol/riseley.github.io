@@ -9,3 +9,7 @@ Short Term
 
 Long Term
 -
+
+#History
+- Followed the tutorial at http://jmcglone.com/guides/github-pages/ , https://github.com/jmcglone/jmcglone.github.io
+- //Redesigned base on http://milanaryal.com/ , https://github.com/MilanAryal/milanaryal.github.io
