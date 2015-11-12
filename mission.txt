@@ -1,6 +1,7 @@
 # This text file states the current design and develop mission of the website
 
 Short Term
+- add copyright notice to readme
 - A new design on appearance
   > Change other html pages to md
 - Redesign the website into a semi-professional settings, hint: make the home and about page a lot more serious
