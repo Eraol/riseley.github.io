@@ -2,6 +2,7 @@
 
 Short Term
 - add copyright notice to readme
+- add cc to readme & license
 - A new design on appearance
   > Change other html pages to md
 - Redesign the website into a semi-professional settings, hint: make the home and about page a lot more serious
