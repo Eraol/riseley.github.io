@@ -2,10 +2,12 @@
 
 Short Term
 - A new design on appearance
+  > Change other html pages to md
 - Redesign the website into a semi-professional settings, hint: make the home and about page a lot more serious
 - Create posts
   > enlightenment and revelation
   > life is one
+- custom 404
 
 Long Term
 -
